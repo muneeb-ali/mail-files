@@ -1,4 +1,4 @@
-Mass Email
+Mail Files
 ==========
 
 Send personalized emails to people with unique attachments.
