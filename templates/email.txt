@@ -1,0 +1,7 @@
+Email Subject Goes here
+
+<tag>
+
+Email txt goes here. (no need to say Hi XXX, that'll automatically be inserted) 
+
+- Your Name
