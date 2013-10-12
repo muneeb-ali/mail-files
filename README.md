@@ -1,9 +1,8 @@
-Mail Files
-==========
+# mail-files
 
-Send personalized emails to people with unique attachments.
+Send personalized emails to people with unique attachments e.g., send personalized grade reports (as attachments) to students. 
 
-## How to Use
+### How to Use
 
 With this package you can blast personalized attachments to people in list.csv. Currently, it only supports sending emails to people on the same domain e.g., @princeton.edu (easy to change this behavior though)
 
